@@ -1,3 +1,3 @@
 # disso-a
-This is my first repo
-To be used for forensic analysis experiments in docker
+This is my first 
+To be used for digital forensic analysis in docker
